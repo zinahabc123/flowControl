@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 5 elements to &apos;flowControl/src/cs.tcd.ie&apos;&#x0D;&#x0A;- Original project: &apos;flowControl&apos;&#x0D;&#x0A;- Destination element: &apos;flowControl/src/cs.tcd.ie&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Node.java&#x0D;&#x0A;     Server.java&#x0D;&#x0A;     StringContent.java&#x0D;&#x0A;     PacketContent.java&#x0D;&#x0A;     Client.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;cs.tcd.ie" element1="/src&lt;{Node.java" element2="/src&lt;{Server.java" element3="/src&lt;{StringContent.java" element4="/src&lt;{PacketContent.java" element5="/src&lt;{Client.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1477323971622" units="5" version="1.0"/>
+</session>
